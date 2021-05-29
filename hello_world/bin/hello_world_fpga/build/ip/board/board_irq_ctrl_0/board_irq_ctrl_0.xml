@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deploy
- date="2021.05.29.07:30:40"
+ date="2021.05.29.09:43:56"
  outputDirectory="/home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/build/ip/board/board_irq_ctrl_0/">
  <perimeter>
   <parameter

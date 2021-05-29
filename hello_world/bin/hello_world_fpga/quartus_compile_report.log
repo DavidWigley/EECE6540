@@ -15,7 +15,7 @@ Info: Running Quartus Prime Shell
     Info: Intel and sold by Intel or its authorized distributors.  Please
     Info: refer to the applicable agreement for further details, at
     Info: https://fpgasoftware.intel.com/eula.
-    Info: Processing started: Sat May 29 08:01:11 2021
+    Info: Processing started: Sat May 29 10:14:18 2021
 Info: Command: quartus_sh -t /glob/development-tools/versions/fpgasupportstack/a10/1.2.1/intelFPGA_pro/hld/share/lib/tcl/quartus_compile_report.tcl aoc dcp afu_default /home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/reports/lib/json/quartus.json 0 293 10000 293.08 hello_world,0
 Info: Quartus(args): aoc dcp afu_default /home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/reports/lib/json/quartus.json 0 293 10000 293.08 hello_world,0
 Info: Using INI file /home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/quartus.ini

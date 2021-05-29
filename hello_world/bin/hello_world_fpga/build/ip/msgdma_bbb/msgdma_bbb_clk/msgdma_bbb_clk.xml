@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deploy
- date="2021.05.29.07:30:42"
+ date="2021.05.29.09:43:58"
  outputDirectory="/home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/build/ip/msgdma_bbb/msgdma_bbb_clk/">
  <perimeter>
   <parameter

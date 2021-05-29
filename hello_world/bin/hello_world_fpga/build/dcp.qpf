@@ -19,12 +19,12 @@
 #
 # Quartus Prime
 # Version 19.2.0 Build 57 06/24/2019 Patches 0.01rc SJ Pro Edition
-# Date created = 07:30:54  May 29, 2021
+# Date created = 09:44:09  May 29, 2021
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "19.2"
-DATE = "07:30:54  May 29, 2021"
+DATE = "09:44:09  May 29, 2021"
 
 # Revisions
 

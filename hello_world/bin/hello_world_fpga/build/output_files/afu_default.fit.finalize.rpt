@@ -1,5 +1,5 @@
 Fitter Finalize Stage Report for afu_default
-Sat May 29 07:56:04 2021
+Sat May 29 10:09:11 2021
 Quartus Prime Version 19.2.0 Build 57 06/24/2019 Patches 0.01rc SJ Pro Edition
 
 
@@ -57,13 +57,13 @@ https://fpgasoftware.intel.com/eula.
 Info: *******************************************************************
 Info: Running Quartus Prime Fitter
     Info: Version 19.2.0 Build 57 06/24/2019 Patches 0.01rc SJ Pro Edition
-    Info: Processing started: Sat May 29 07:34:37 2021
+    Info: Processing started: Sat May 29 09:47:47 2021
 Info: Command: quartus_fit --read_settings_files=on --write_settings_files=off dcp -c afu_default
 Info: Using INI file /home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/build/quartus.ini
 Info: qfit2_default_script.tcl version: #1
 Info: Project  = dcp
 Info: Revision = afu_default
 Info (11888): Total time spent on timing analysis during Post-Routing is 0.06 seconds.
-Info (16557): Fitter post-fit operations ending: elapsed time is 00:03:12
+Info (16557): Fitter post-fit operations ending: elapsed time is 00:03:14
 
 

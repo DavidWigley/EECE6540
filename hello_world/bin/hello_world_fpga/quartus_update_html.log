@@ -15,12 +15,12 @@ Info: Running Quartus Prime Shell
     Info: Intel and sold by Intel or its authorized distributors.  Please
     Info: refer to the applicable agreement for further details, at
     Info: https://fpgasoftware.intel.com/eula.
-    Info: Processing started: Sat May 29 08:01:14 2021
+    Info: Processing started: Sat May 29 10:14:22 2021
 Info: Command: quartus_sh -t /glob/development-tools/versions/fpgasupportstack/a10/1.2.1/intelFPGA_pro/hld/share/lib/tcl/quartus_html_report.tcl aoc
 Info: Quartus(args): aoc
 Info: Using INI file /home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/quartus.ini
 Info (23030): Evaluation of Tcl script /glob/development-tools/versions/fpgasupportstack/a10/1.2.1/intelFPGA_pro/hld/share/lib/tcl/quartus_html_report.tcl was successful
 Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
     Info: Peak virtual memory: 1005 megabytes
-    Info: Processing ended: Sat May 29 08:01:14 2021
+    Info: Processing ended: Sat May 29 10:14:22 2021
     Info: Elapsed time: 00:00:00

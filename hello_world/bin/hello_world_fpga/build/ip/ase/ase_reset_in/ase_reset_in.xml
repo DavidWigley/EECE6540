@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deploy
- date="2021.05.29.07:30:32"
+ date="2021.05.29.09:43:48"
  outputDirectory="/home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/build/ip/ase/ase_reset_in/">
  <perimeter>
   <parameter

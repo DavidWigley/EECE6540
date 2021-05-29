@@ -38,7 +38,7 @@ Info: Running Quartus Prime Shell
     Info: Intel and sold by Intel or its authorized distributors.  Please
     Info: refer to the applicable agreement for further details, at
     Info: https://fpgasoftware.intel.com/eula.
-    Info: Processing started: Sat May 29 07:30:15 2021
+    Info: Processing started: Sat May 29 09:43:32 2021
 Info: Command: quartus_sh -t /glob/development-tools/versions/fpgasupportstack/a10/1.2.1/intelFPGA_pro/hld/ip/board/migrate/pre_skipbak/pre_skipbak.tcl a10_ref pac_a10 -1
 Info: Quartus(args): a10_ref pac_a10 -1
 Info: Using INI file /home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/quartus.ini
@@ -77,7 +77,7 @@ couldn't read file "scripts/qar_ip_files.tcl": no such file or directory
 Error (23031): Evaluation of Tcl script /glob/development-tools/versions/fpgasupportstack/a10/1.2.1/intelFPGA_pro/hld/ip/board/migrate/pre_skipbak/pre_skipbak.tcl unsuccessful
 Error: Quartus Prime Shell was unsuccessful. 2 errors, 0 warnings
     Error: Peak virtual memory: 1005 megabytes
-    Error: Processing ended: Sat May 29 07:30:15 2021
+    Error: Processing ended: Sat May 29 09:43:32 2021
     Error: Elapsed time: 00:00:00
 ------------------------------
 
@@ -104,7 +104,7 @@ Info: Running Quartus Prime Shell
     Info: Intel and sold by Intel or its authorized distributors.  Please
     Info: refer to the applicable agreement for further details, at
     Info: https://fpgasoftware.intel.com/eula.
-    Info: Processing started: Sat May 29 08:01:09 2021
+    Info: Processing started: Sat May 29 10:14:16 2021
 Info: Command: quartus_sh -t /glob/development-tools/versions/fpgasupportstack/a10/1.2.1/intelFPGA_pro/hld/ip/board/migrate/post_skipbak/post_skipbak.tcl a10_ref pac_a10 -1
 Info: Quartus(args): a10_ref pac_a10 -1
 Info: Using INI file /home/u75982/A10_OPENCL_AFU/hello_world/bin/hello_world_fpga/quartus.ini
@@ -143,7 +143,7 @@ couldn't read file "scripts/qar_ip_files.tcl": no such file or directory
 Error (23031): Evaluation of Tcl script /glob/development-tools/versions/fpgasupportstack/a10/1.2.1/intelFPGA_pro/hld/ip/board/migrate/post_skipbak/post_skipbak.tcl unsuccessful
 Error: Quartus Prime Shell was unsuccessful. 2 errors, 0 warnings
     Error: Peak virtual memory: 1005 megabytes
-    Error: Processing ended: Sat May 29 08:01:09 2021
-    Error: Elapsed time: 00:00:00
+    Error: Processing ended: Sat May 29 10:14:17 2021
+    Error: Elapsed time: 00:00:01
 ------------------------------
 
